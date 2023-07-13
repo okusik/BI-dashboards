@@ -1,6 +1,9 @@
 # BI-dashboards
 Here, I'm going to share the dashboards I've created as side or educational projects
 
+📊 CryptoPool Profitability
+https://app.powerbi.com/view?r=eyJrIjoiOGM5ZmRlMGUtZGE3My00N2E3LWI2MjQtMjIzNDhhNDdhOGFjIiwidCI6ImI2NjVhZDlmLTk1ZTEtNGQ3Ni04YTdjLTA0NjU3NDkwODE1OSIsImMiOjl9&pageName=ReportSection
+
 💻 Electronics store
 https://app.powerbi.com/view?r=eyJrIjoiYTBhMDZiYjEtNjA3My00NTFjLTg3ZjEtZmYxZTgxNDU4YmU4IiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9&pageName=ReportSection5257d24972781aa00561
 
